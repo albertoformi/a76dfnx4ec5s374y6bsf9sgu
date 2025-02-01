@@ -1,0 +1,16 @@
+{
+    "name": "https://github.com/albertoformi/a76dfnx4ec5s374y6bsf9sgu",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/albertoformi/a76dfnx4ec5s374y6bsf9sgu",
+    "authors": [
+      {
+        "name": "dv for composer",
+        "homepage": "https://github.com/albertoformi/a76dfnx4ec5s374y6bsf9sgu"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+  }
